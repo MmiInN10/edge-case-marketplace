@@ -1,0 +1,9 @@
+{
+  "name": "edge-case-hunter",
+  "description": "코드를 읽고 경계값·빈 입력·예상 밖 입력 등 터질 만한 상황을 우선순위 표로 보고한다. 코드는 고치지 않는다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MmiInN10"
+  },
+  "keywords": ["edge-case", "boundary-value", "testing", "code-analysis"]
+}
