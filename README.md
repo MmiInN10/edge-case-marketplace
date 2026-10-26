@@ -1,4 +1,4 @@
-# edge-case-hunter 보고서
+# edge-case-hunter 에이전트
 
 ## 1. 개요
 
